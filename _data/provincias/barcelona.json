@@ -11,6 +11,11 @@
       "url": "www.firabarcelona.com",
       "name": "Fira Barcelona",
       "twitter": "fira_barcelona"
+    },
+    {
+      "url": "www.localret.cat",
+      "name": "LocalRet",
+      "twitter": "localret"
     }
   ]
 }
